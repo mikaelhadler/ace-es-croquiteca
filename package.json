@@ -1,0 +1,16 @@
+{
+  "name": "ace-es-croquiteca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start":"node src/main.js",
+    "start:debug":"node --inspect-brk src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "22.6.4"
+  }
+}
